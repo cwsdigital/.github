@@ -1,4 +1,6 @@
-<p align="center"><a href="https://cwsdigital.com" target="_blank"><img src="https://github.com/cwsdigital/.github/blob/main/assets/images/cws-logo.jpg?raw=true" width="500"></a></p>
+<p align="center"><a href="https://cwsdigital.com" target="_blank"><img 
+src="https://github.com/cwsdigital/.github/blob/main/assets/images/cws-logo-dark.svg?raw=true" 
+width="500"></a></p>
 
 ## CWS Agency
 
