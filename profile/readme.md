@@ -1,5 +1,5 @@
 <p align="center"><a href="https://cwsdigital.com" target="_blank"><img 
-src="https://github.com/cwsdigital/.github/blob/main/assets/images/cws-logo-dark.svg?raw=true" 
+src="https://github.com/cwsdigital/.github/blob/main/assets/images/cws-profile-logo?raw=true" 
 width="500"></a></p>
 
 ## CWS Agency
